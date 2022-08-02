@@ -1,0 +1,4 @@
+---
+# vars file for myapache-FPT
+package_name: httpd
+
